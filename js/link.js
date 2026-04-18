@@ -1,0 +1,22 @@
+const allDomains = [
+    "https://88555888.com",
+    "https://88123888.com",
+    "https://84444448.com",
+    "https://88444888.com",
+    "https://88789888.com",
+    "https://88801888.vip",
+    "https://88807888.app",
+    "https://88880708.app",
+    "https://88880102.vip",
+    "https://88880203.vip",
+    "https://88880305.app",
+    "https://88809888.app",
+    "https://88803888.app",
+    "https://88tt88.vip",
+    "https://88tt88.app",
+    "https://66345666.com",
+    "https://66366666.com",
+    "https://66466666.com",
+    "https://88222288.com",
+    "https://88567888.com"
+];
