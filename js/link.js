@@ -19,7 +19,7 @@ const allDomains = [
     "https://53uy88.com",
     "https://54uy88.com",
     "https://555uy88.com",
-    "https://66uy88.com",
+    "https://95uy88.com",
     "https://68uy88.com",
     "https://77uy88.com",
     "https://78uy88.com",
